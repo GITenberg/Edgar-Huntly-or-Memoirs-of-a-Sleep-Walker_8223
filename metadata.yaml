@@ -1,0 +1,42 @@
+_repo: Edgar-Huntly-or-Memoirs-of-a-Sleep-Walker_8223
+alternative_title: Edgar Huntley
+creator:
+  author:
+    agent_name: Brown, Charles Brockden
+    aliases:
+    - Brown, Brockden
+    - Poplicola
+    - Brown, C. B. (Charles Brockden)
+    birthdate: 1771
+    deathdate: 1810
+    gutenberg_agent_id: '416'
+    url: http://www.gutenberg.org/2009/agents/416
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Brockden_Brown
+description: "Edgar Huntly, Or, Memoirs of a Sleepwalker is a 1799 novel by the American\
+  \ author Charles Brockden Brown.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8223'
+  wikidata: Q5337298
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Wilderness areas -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Philadelphia (Pa.) -- History -- 18th century -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Delaware Indians -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Sleepwalking -- Fiction'
+- !lcsh 'Dementia -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: Edgar Huntly; or, Memoirs of a Sleep-Walker
+url: http://www.gutenberg.org/ebooks/8223
+wikipedia:
+- https://en.wikipedia.org/wiki/Edgar_Huntly
