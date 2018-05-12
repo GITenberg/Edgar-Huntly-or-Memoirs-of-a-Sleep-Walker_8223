@@ -1,5 +1,9 @@
 _repo: Edgar-Huntly-or-Memoirs-of-a-Sleep-Walker_8223
+_version: 0.1.0
 alternative_title: Edgar Huntley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brown, Charles Brockden
@@ -14,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Brockden_Brown
 description: "Edgar Huntly, Or, Memoirs of a Sleepwalker is a 1799 novel by the American\
   \ author Charles Brockden Brown.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8223#Edgar-Huntly-or-Memoirs-of-a-Sleep-Walker
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
